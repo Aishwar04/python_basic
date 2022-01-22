@@ -21,3 +21,5 @@ def sayhi(name,age):
 
 sayhi("Mike",25)
 sayhi("Steve",26)
+
+sayhi("Mike", 26)
